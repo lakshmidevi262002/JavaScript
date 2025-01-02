@@ -1,0 +1,35 @@
+.h1{
+    color: red;
+  top: 10%;
+  right: 45%;
+  position:absolute
+}
+#start{
+    height: 50px;
+    width: 90px;
+    color: white;
+    background-color: blue;
+    border-radius: 20px;
+    margin-left: 45%;
+    
+}
+#greet{
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-size: 50px;
+}
+#img1{
+    margin-top: 15%;
+  
+    margin-left: 20%;
+    
+}
+
+
+#img2{
+    margin-top: 15%;
+    
+    margin-left: 22%;
+}
+
